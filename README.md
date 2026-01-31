@@ -1,6 +1,6 @@
 # Profit-decline-diagnostic - Business Performance Analysis 
 
-## Probelem Statement 
+## Problem Statement 
 Sales performance is strong, but overall profitability is inconsistent. This project aims to identify the key drivers of profit decline and data driven decision making.
 
 ## Tools used 
